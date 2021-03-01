@@ -1,1 +1,1 @@
-# Visually-Grounded-Library-of-Behaviors-for-Generalizing-Manipulation-Across-Objects-Configurations-
+# Visually-Grounded-Library-of-Behaviors
