@@ -11,8 +11,9 @@
 # set up
 
 ## openAI baseline and gym setup
-set up baseline and openai gym path in paths.yaml
-
+set up baseline and openai gym path in paths.yaml 
+  
+  Install the quantize-gym inside the folder
 ## dataset set up
 place trained models under this repo
 ex. trained_models/fetch_cup_loss_obs/model_name/..
@@ -76,3 +77,5 @@ check command lines in run_compress.sh
 
 ## generate data for training metric learning
     sh run_data_gen.sh
+## metric learning with GRNN
+    follow the readme inside pytorch_disco folder
